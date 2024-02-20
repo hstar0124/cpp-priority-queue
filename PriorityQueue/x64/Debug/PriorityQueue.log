@@ -1,0 +1,12 @@
+﻿  PriorityQueue.cpp
+C:\workspace\rookiss\PriorityQueue\PriorityQueue\PriorityQueue.cpp(38,18): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+  C:\workspace\rookiss\PriorityQueue\PriorityQueue\PriorityQueue.cpp(38,18):
+  the template instantiation context (the oldest one first) is
+  	C:\workspace\rookiss\PriorityQueue\PriorityQueue\PriorityQueue.cpp(90,35):
+  	컴파일되는 클래스 템플릿 인스턴스화 'PriotiryQueue<int,std::less<int>>'에 대한 참조를 확인하세요.
+  	C:\workspace\rookiss\PriorityQueue\PriorityQueue\PriorityQueue.cpp(36,10):
+  	클래스 템플릿 멤버 함수 'void PriotiryQueue<int,std::less<int>>::pop(void)'을(를) 컴파일하는 중입니다.
+  		C:\workspace\rookiss\PriorityQueue\PriorityQueue\PriorityQueue.cpp(99,11):
+  		'main'에서 'PriotiryQueue<int,std::less<int>>::pop'에 대한 첫 번째 참조를 확인하세요.
+  
+  PriorityQueue.vcxproj -> C:\workspace\rookiss\PriorityQueue\x64\Debug\PriorityQueue.exe
